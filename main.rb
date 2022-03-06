@@ -3,7 +3,7 @@ require 'telegram/bot'
 require 'logger'
 
 logger = Logger.new(STDOUT, Logger::DEBUG)
-TOKEN = '{TOKEN}'
+TOKEN = '{2129314263:AAF1sJ3MSq-kP42aUfBLvg753uP6AWQtRN0}'
 logger.info 'Starting bot !'
 logger.info 'stared bot !'
 
